@@ -2,3 +2,13 @@
 
 
 ![image](https://github.com/Baliieiro/Portifolio/assets/107065917/a80397a6-cd5a-4f27-8823-22ca6c8e8211)
+gestor de estoque
+
+![image](https://github.com/Baliieiro/Portifolio/assets/107065917/4702f469-15dd-46e3-bbe2-245a44c98667)
+gerador de senhas
+
+![image](https://github.com/Baliieiro/Portifolio/assets/107065917/acbed14a-1670-46a5-a8c1-65e5db36b345)
+Minhas finanças
+
+![image](https://github.com/Baliieiro/Portifolio/assets/107065917/46427cb0-3972-48f6-80f4-258b3c78450d)
+aluraSpace
