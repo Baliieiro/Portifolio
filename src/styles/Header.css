@@ -1,0 +1,22 @@
+header {
+  display: flex;
+}
+
+
+nav {
+  display: flex;
+  min-width: 375px;
+  justify-content: center;
+  margin: 0 auto;
+  gap: 1.5rem;
+  padding: 2rem;
+  border-radius: 3rem;
+  background-color: #9D713D;
+  box-shadow: 10px 10px 7px 0px rgba(0, 0, 0, 0.1);
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.5rem
+}

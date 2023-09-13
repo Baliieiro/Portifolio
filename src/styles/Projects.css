@@ -1,0 +1,54 @@
+.projetos, .projetos_lista {
+  margin: 4rem auto 2rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: white;
+  text-align: center;
+  padding-bottom: 0.5rem;
+}
+
+.card p {
+  font-size: 1.125rem;
+  color: white;
+  font-family: cursive;
+  text-align: center;
+}
+
+span {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+.projetos_lista {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+  max-width: 964px;
+}
+
+.card {
+  background-color: #9D713D;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 10px 10px 7px 0px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  width: 100%;
+  border-radius: 1rem;
+  height: 180px;
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Organo",
+    "srcImage": "https://user-images.githubusercontent.com/101364762/209754236-39810910-cd50-41f4-8b7b-da41a7146c7a.png",
+    "description": "Projeto da alura bastante interativo, otimo para praticar.",
+    "linkProject": "https://organo-alura-jade.vercel.app/",
+    "tecnology": "React",
+    "id": 1
+  },
+  {
+    "name": "Alura Space",
+    "srcImage": "https://user-images.githubusercontent.com/107065917/267446041-46427cb0-3972-48f6-80f4-258b3c78450d.png",
+    "description": "Projeto sobre o espaço com um design elegante.",
+    "linkProject": "https://alura-space-b5ls.vercel.app/",
+    "tecnology": "React",
+    "id": 2
+  },
+  {
+    "name": "Dashboard",
+    "srcImage": "https://user-images.githubusercontent.com/107065917/267429875-a80397a6-cd5a-4f27-8823-22ca6c8e8211.png",
+    "description": "Um dashboard simples para gerir estoque.",
+    "linkProject": "https://github.com/Baliieiro",
+    "tecnology": "React",
+    "id": 3
+  },
+  {
+    "name": "Gerador de senhas",
+    "srcImage": "https://user-images.githubusercontent.com/107065917/267438190-4702f469-15dd-46e3-bbe2-245a44c98667.png",
+    "description": "Gerador de senhas simples.",
+    "linkProject": "https://github.com/Baliieiro",
+    "tecnology": "JavaScript",
+    "id": 4
+  },
+  {
+    "name": "Clima",
+    "srcImage": "https://user-images.githubusercontent.com/107065917/267456257-71c07d8e-ea57-4256-9725-fb2b7db2c9f3.png",
+    "description": "Um app que busca o clima de cidade do mundo.",
+    "linkProject": "https://weather-app-sandy-pi.vercel.app/",
+    "tecnology": "React",
+    "id": 5
+  },
+  {
+    "name": "Finanças",
+    "srcImage": "https://user-images.githubusercontent.com/107065917/267441099-acbed14a-1670-46a5-a8c1-65e5db36b345.png",
+    "description": "Organize sua finanças com esse app.",
+    "linkProject": "https://github.com/Baliieiro",
+    "tecnology": "JavaScript",
+    "id": 6
+  }
+]

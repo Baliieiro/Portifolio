@@ -1,0 +1,46 @@
+.about {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  align-items: center;
+}
+
+.info {
+  width: 60%
+}
+
+.about h2 {
+  font-size: 3rem;
+  color: #fff;
+}
+
+.about p {
+  font-size: 1.25rem;
+  color: #fff;
+  text-align: justify;
+}
+
+button {
+  margin-top: 1.25rem;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  font-size: 1.25rem;
+  color: #fff;
+  background-color: #222222;
+  border: 1px solid transparent;
+  cursor: pointer
+}
+
+button:hover {
+  border-color: #ffffff;
+}
+
+article img {
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  background-size: cover;
+  -webkit-box-shadow: 20px -20px 0px 0px rgba(166, 117, 31, 1);
+  -moz-box-shadow: 20px -20px 0px 0px rgba(166, 117, 31, 1);
+  box-shadow: 20px -20px 0px 0px rgba(166, 117, 31, 1);
+}

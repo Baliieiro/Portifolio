@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  font-family: "Helvetica Neue", sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(to right, #9D713D, #000000);
+  height: 100vh;
+}
+
+.root-layout {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  min-height: 100vh;
+}
+
+.container {
+  min-height: calc(100vh - 12rem);
+  display: flex;
+}
+
+.home, .about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.home {
+  flex-direction: column;
+
+}
+
+h1 {
+  color: white;
+  font-size: 5rem;
+  font-family: cursive;
+  text-align: center;
+}
+
+
+p {
+  font-size: 2rem;
+  color: white;
+  font-family: cursive;
+}
+
+.thanks {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+}
